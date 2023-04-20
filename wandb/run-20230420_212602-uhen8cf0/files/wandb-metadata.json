@@ -1,0 +1,84 @@
+{
+    "os": "Linux-5.4.0-126-generic-x86_64-with-glibc2.31",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-04-20T12:26:03.503448",
+    "startedAt": "2023-04-20T12:26:02.307056",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/JongminKim97/denoising-diffusion-pytorch.git",
+        "commit": "cca4b3d99de787e3f1009fc21941ed0c1f4de367"
+    },
+    "email": "jmkim@robotics.snu.ac.kr",
+    "root": "/home/jmkim/VSCODE/denoising-diffusion-pytorch",
+    "host": "robotics",
+    "username": "jmkim",
+    "executable": "/home/jmkim/anaconda3/envs/DIFFUSION/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 4500.81625,
+        "min": 800.0,
+        "max": 4500.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4502.847,
+            "min": 800.0,
+            "max": 4500.0
+        },
+        {
+            "current": 4500.001,
+            "min": 800.0,
+            "max": 4500.0
+        },
+        {
+            "current": 4501.666,
+            "min": 800.0,
+            "max": 4500.0
+        },
+        {
+            "current": 4501.314,
+            "min": 800.0,
+            "max": 4500.0
+        },
+        {
+            "current": 4500.294,
+            "min": 800.0,
+            "max": 4500.0
+        },
+        {
+            "current": 4500.023,
+            "min": 800.0,
+            "max": 4500.0
+        },
+        {
+            "current": 4500.312,
+            "min": 800.0,
+            "max": 4500.0
+        },
+        {
+            "current": 4500.073,
+            "min": 800.0,
+            "max": 4500.0
+        }
+    ],
+    "disk": {
+        "total": 456.8854446411133,
+        "used": 409.8093070983887
+    },
+    "gpu": "NVIDIA GeForce RTX 3090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 25769803776
+        }
+    ],
+    "memory": {
+        "total": 62.744998931884766
+    }
+}
